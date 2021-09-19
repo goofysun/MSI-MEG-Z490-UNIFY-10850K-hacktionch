@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>iMacPro1,1-XHC</key>
+		<key>iMac20,2-XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -47,9 +47,7 @@
 				<key>kUSBWakePowerSupply</key>
 				<integer>5100</integer>
 				<key>port-count</key>
-				<data>
-				FAAAAA==
-				</data>
+				<data>FAAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>HS01</key>
@@ -59,9 +57,7 @@
 						<key>name</key>
 						<string>HS01</string>
 						<key>port</key>
-						<data>
-						AQAAAA==
-						</data>
+						<data>AQAAAA==</data>
 					</dict>
 					<key>HS03</key>
 					<dict>
@@ -70,9 +66,7 @@
 						<key>name</key>
 						<string>HS03</string>
 						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
+						<data>AwAAAA==</data>
 					</dict>
 					<key>HS04</key>
 					<dict>
@@ -81,9 +75,7 @@
 						<key>name</key>
 						<string>HS04</string>
 						<key>port</key>
-						<data>
-						BAAAAA==
-						</data>
+						<data>BAAAAA==</data>
 					</dict>
 					<key>HS07</key>
 					<dict>
@@ -92,9 +84,7 @@
 						<key>name</key>
 						<string>HS07</string>
 						<key>port</key>
-						<data>
-						BwAAAA==
-						</data>
+						<data>BwAAAA==</data>
 					</dict>
 					<key>HS08</key>
 					<dict>
@@ -103,9 +93,7 @@
 						<key>name</key>
 						<string>HS08</string>
 						<key>port</key>
-						<data>
-						CAAAAA==
-						</data>
+						<data>CAAAAA==</data>
 					</dict>
 					<key>HS09</key>
 					<dict>
@@ -114,9 +102,7 @@
 						<key>name</key>
 						<string>HS09</string>
 						<key>port</key>
-						<data>
-						CQAAAA==
-						</data>
+						<data>CQAAAA==</data>
 					</dict>
 					<key>HS13</key>
 					<dict>
@@ -125,9 +111,7 @@
 						<key>name</key>
 						<string>HS13</string>
 						<key>port</key>
-						<data>
-						DQAAAA==
-						</data>
+						<data>DQAAAA==</data>
 					</dict>
 					<key>SS01</key>
 					<dict>
@@ -136,9 +120,7 @@
 						<key>name</key>
 						<string>SS01</string>
 						<key>port</key>
-						<data>
-						EQAAAA==
-						</data>
+						<data>EQAAAA==</data>
 					</dict>
 					<key>SS03</key>
 					<dict>
@@ -147,9 +129,7 @@
 						<key>name</key>
 						<string>SS03</string>
 						<key>port</key>
-						<data>
-						EwAAAA==
-						</data>
+						<data>EwAAAA==</data>
 					</dict>
 					<key>SS04</key>
 					<dict>
@@ -158,16 +138,14 @@
 						<key>name</key>
 						<string>SS04</string>
 						<key>port</key>
-						<data>
-						FAAAAA==
-						</data>
+						<data>FAAAAA==</data>
 					</dict>
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMacPro1,1</string>
+			<string>iMac20,2</string>
 		</dict>
-		<key>iMacPro1,1-XHC-8086_15e9</key>
+		<key>iMac20,2-XHC-8086_15e9</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -192,9 +170,7 @@
 				<key>kUSBWakePowerSupply</key>
 				<integer>5100</integer>
 				<key>port-count</key>
-				<data>
-				BAAAAA==
-				</data>
+				<data>BAAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>SSS1</key>
@@ -204,9 +180,7 @@
 						<key>name</key>
 						<string>SSS1</string>
 						<key>port</key>
-						<data>
-						AQAAAA==
-						</data>
+						<data>AQAAAA==</data>
 					</dict>
 					<key>SSS2</key>
 					<dict>
@@ -215,9 +189,7 @@
 						<key>name</key>
 						<string>SSS2</string>
 						<key>port</key>
-						<data>
-						AgAAAA==
-						</data>
+						<data>AgAAAA==</data>
 					</dict>
 					<key>SSS3</key>
 					<dict>
@@ -226,9 +198,7 @@
 						<key>name</key>
 						<string>SSS3</string>
 						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
+						<data>AwAAAA==</data>
 					</dict>
 					<key>SSS4</key>
 					<dict>
@@ -237,16 +207,14 @@
 						<key>name</key>
 						<string>SSS4</string>
 						<key>port</key>
-						<data>
-						BAAAAA==
-						</data>
+						<data>BAAAAA==</data>
 					</dict>
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMacPro1,1</string>
+			<string>iMac20,2</string>
 		</dict>
-		<key>iMacPro1,1-XHC5</key>
+		<key>iMac20,2-XHC5</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -271,9 +239,7 @@
 				<key>kUSBWakePowerSupply</key>
 				<integer>5100</integer>
 				<key>port-count</key>
-				<data>
-				BAAAAA==
-				</data>
+				<data>BAAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>SSP1</key>
@@ -283,9 +249,7 @@
 						<key>name</key>
 						<string>SSP1</string>
 						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
+						<data>AwAAAA==</data>
 					</dict>
 					<key>SSP2</key>
 					<dict>
@@ -294,14 +258,12 @@
 						<key>name</key>
 						<string>SSP2</string>
 						<key>port</key>
-						<data>
-						BAAAAA==
-						</data>
+						<data>BAAAAA==</data>
 					</dict>
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMacPro1,1</string>
+			<string>iMac20,2</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
